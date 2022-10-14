@@ -305,6 +305,7 @@ color: yellow;
 #twitter{
   background-color: #00AEEF;
   width: calc(3.5vw + 1vw); /* + 1vw */
+  height: auto;
   /* margin-left: calc(15vw + 2vw); */
 
 }
@@ -313,6 +314,7 @@ color: yellow;
   background-color: #00AB99;
   cursor: pointer;
   width: calc(3.5vw + 1vw);
+  height: auto;
   /* margin-left: calc(15vw + 2vw); */
 }
 
@@ -600,6 +602,15 @@ li{
   /* width: 2.2vw;
   height: 2.2vw; */
 
+}
+
+#contact_email{
+  color: #4183C4;
+}
+
+#contact_email:hover{
+  color: #4183C4;
+  text-decoration: underline;
 }
 
 .contact__form-tarea{
