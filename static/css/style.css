@@ -363,7 +363,7 @@ color: yellow;
   min-height: 16vw;
   width: 27vw;
 /*  height: 28vh; */
-  height: calc(11vw + 1vw);
+    height: 6.1em;
   border: 1px solid #f1f1f1;
   perspective: 1000px;
   border-style: hidden;
@@ -422,7 +422,7 @@ background-image: linear-gradient(to right, #4CAF50, #00AEEF, #E90188); /* , #00
   color: white;
  /* font-size: calc(5px + 1vw); 
   font-size: calc(92% + 1vw); */
-   font-size: calc(92% + 0.47px); /* calc(0.5em + 0.8vw) */
+    font-size: calc(92% + 3.563%); /* calc(0.5em + 0.8vw) */
   letter-spacing: 0.1vw;
 line-height: 0.1vh;
   font-weight: 600;
