@@ -1,0 +1,8 @@
+{
+  "name": "AgapeSigns",
+  "version": "1.0.0",
+  "description": "Print service",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test spec\" && exit 1"
+}
