@@ -9,6 +9,34 @@ width: 100%; */
 /* display: inline-block; */
 }
 
+@media (min-width: 700px) {  
+  html{
+    /* Minimum font size */
+    font-size: 14px
+  }
+}
+
+@media (min-width: 700px) {  
+  .sino_back_txt{
+    /* Minimum font size */
+    font-size: 14px
+  }
+}
+
+@media (min-width: 700px) {  
+  .contact__card{
+    /* Minimum font size */
+    font-size: 14px
+  }
+}
+
+@media (min-width: 700px) {  /* .sino_back_txt .contact__card .page-footer__inner #prices .slogan .page-header__nav */
+  #prices{
+    /* Minimum font size */
+    font-size: 14px
+  }
+}
+
 table, th, td{
   border:1px solid black;
 }
