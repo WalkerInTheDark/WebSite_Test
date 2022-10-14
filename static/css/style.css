@@ -420,8 +420,9 @@ background-image: linear-gradient(to right, #4CAF50, #00AEEF, #E90188); /* , #00
 
 .sino_back_txt{
   color: white;
- /* font-size: calc(5px + 1vw); */
-  font-size: calc(92% + 1vw);
+ /* font-size: calc(5px + 1vw); 
+  font-size: calc(92% + 1vw); */
+  font-size: calc(92% - 0.01vw);
   font-weight: 600;
   letter-spacing: 0.15vw;
 }
