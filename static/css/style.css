@@ -2,39 +2,12 @@ html{
   font-family: Helvetica, Arial, sans-serif;
 /*  min-width: 400px;
   max-width: 2000px; */
-  font-size: calc(7px + 1vw) !important;
+ /* font-size: calc(7px + 1vw) !important; */
+  font-size: 1em !important;
 /* height: 100%;
 width: 100%; */
 
 /* display: inline-block; */
-}
-
-@media (min-width: 700px) {  
-  html{
-    /* Minimum font size */
-    font-size: 14px
-  }
-}
-
-@media (min-width: 700px) {  
-  .sino_back_txt{
-    /* Minimum font size */
-    font-size: 14px
-  }
-}
-
-@media (min-width: 700px) {  
-  .contact__card{
-    /* Minimum font size */
-    font-size: 14px
-  }
-}
-
-@media (min-width: 700px) {  /* .sino_back_txt .contact__card .page-footer__inner #prices .slogan .page-header__nav */
-  #prices{
-    /* Minimum font size */
-    font-size: 14px
-  }
 }
 
 table, th, td{
