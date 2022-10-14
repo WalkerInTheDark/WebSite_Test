@@ -293,6 +293,10 @@ color: yellow;
 }
 
 .social_logos{
+
+  width: auto;
+  height: auto;
+
   margin-left: calc(0vw - 1px);
   text-align: center;
 }
